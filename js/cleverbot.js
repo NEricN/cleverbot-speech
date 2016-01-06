@@ -1,6 +1,6 @@
 var Cleverbot = function() {
     this.state = "";
-    this.url = "http://cleverbot-server.herokuapp.com/write";
+    this.url = "//cleverbot-server.herokuapp.com/write";
 }
 
 Cleverbot.prototype.restart = function() {
